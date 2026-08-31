@@ -1,2 +1,2 @@
-# Programa-o-1
+# programacao-1
 exercicios da disciplina de programacao 1
